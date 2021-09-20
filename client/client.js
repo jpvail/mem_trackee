@@ -1,7 +1,7 @@
 
 const fetch = require("node-fetch"); 
 
-const url = "http://localhost:3000/"; 
+const url = "http://10.0.1.113:3000/"; 
 
 //fetch 10 web pages in the first 10 seconds 
 for(let i = 0; i < 10; ++i){
